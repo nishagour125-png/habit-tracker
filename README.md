@@ -1,6 +1,6 @@
 # HabitCode – Smart Habit Tracker
 
-#### Video Demo: [ADD YOUR VIDEO URL HERE]
+#### Video Demo: [https://youtu.be/V5nDvXE3zrg]
 
 #### Live Application: https://habit-tracker6.onrender.com/
 
